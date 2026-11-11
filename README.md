@@ -8,10 +8,10 @@ A collection of C++ programs developed as part of the Object-Oriented Programmin
 
 | Field        | Details               |
 | ------------ | --------------------- |
-| **Name**     | Raghavendra R Urankar |
-| **Roll No.** | 620                   |
+| **Name**     | Bhomika Dharani       |
+| **Roll No.** | 607                   |
 | **Division** | F                     |
-| **SRN**      | 01FE23BEC319          |
+| **SRN**      | 01FE23BEC306          |
 | **Semester** | VII                   |
 
 ---
