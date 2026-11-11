@@ -8,7 +8,7 @@ A collection of C++ programs developed as part of the Object-Oriented Programmin
 
 | Field        | Details               |
 | ------------ | --------------------- |
-| **Name**     | Bhomika Dharani       |
+| **Name**     | Bhoomika Dharani      |
 | **Roll No.** | 607                   |
 | **Division** | F                     |
 | **SRN**      | 01FE23BEC306          |
